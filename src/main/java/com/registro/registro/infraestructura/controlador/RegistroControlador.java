@@ -1,7 +1,6 @@
 package com.registro.registro.infraestructura.controlador;
 
 import com.registro.registro.aplicacion.intermediario.IntermediarioRegistroUsuario;
-import com.registro.registro.dominio.dao.DatosUsuarioDao;
 import com.registro.registro.dominio.dto.RespuestaRegistroUsuarioDto;
 import com.registro.registro.infraestructura.dto.RegistroUsuarioDto;
 import org.springframework.web.bind.annotation.PostMapping;
